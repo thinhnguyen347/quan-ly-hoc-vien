@@ -1,0 +1,277 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "email": "123@gmail.com",
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "email": "shalwill1@salon.com",
+      "username": "dmccurdy1",
+      "password": "vnUjITbz"
+    },
+    {
+      "id": 3,
+      "email": "chymor2@irs.gov",
+      "username": "aeagleton2",
+      "password": "hQmRoHrN"
+    },
+    {
+      "id": 4,
+      "email": "rtugman3@moonfruit.com",
+      "username": "vtribble3",
+      "password": "FqMHWAZz"
+    },
+    {
+      "id": 5,
+      "email": "tdronsfield4@fastcompany.com",
+      "username": "dluchelli4",
+      "password": "WOFgzP"
+    },
+    {
+      "id": 6,
+      "email": "jcowitz5@amazon.co.jp",
+      "username": "lleadston5",
+      "password": "CATQ78lVNozq"
+    },
+    {
+      "id": 7,
+      "email": "sisitt6@bigcartel.com",
+      "username": "kottiwill6",
+      "password": "FSj9Wjl"
+    },
+    {
+      "id": 8,
+      "email": "esiemens7@furl.net",
+      "username": "qpordall7",
+      "password": "N4buhxd4bE"
+    },
+    {
+      "id": 9,
+      "email": "drodge8@surveymonkey.com",
+      "username": "odambrosio8",
+      "password": "vYCBi1fS8i"
+    },
+    {
+      "id": 10,
+      "email": "rkearn9@tmall.com",
+      "username": "eick9",
+      "password": "ajUgIW0EV1"
+    },
+    {
+      "id": 11,
+      "email": "bfendlena@cpanel.net",
+      "username": "cfellgatea",
+      "password": "lD7WwhfuMTWa"
+    },
+    {
+      "id": 12,
+      "email": "byarhamb@adobe.com",
+      "username": "enapierb",
+      "password": "VR9ukjM"
+    },
+    {
+      "id": 13,
+      "email": "jbechleyc@flavors.me",
+      "username": "hfardoec",
+      "password": "VYNdZjd"
+    },
+    {
+      "id": 14,
+      "email": "obeddoesd@foxnews.com",
+      "username": "rmuinod",
+      "password": "faeEgqwWEt"
+    },
+    {
+      "id": 15,
+      "email": "jsinclaire@yandex.ru",
+      "username": "hfoane",
+      "password": "SOfft8n8R"
+    },
+    {
+      "id": 16,
+      "email": "evanesf@indiatimes.com",
+      "username": "skneafseyf",
+      "password": "3f7Gzs7u"
+    },
+    {
+      "id": 17,
+      "email": "hfitking@joomla.org",
+      "username": "nmatteog",
+      "password": "mNg7ACHOt"
+    },
+    {
+      "id": 18,
+      "email": "asyvreth@wix.com",
+      "username": "yknipeh",
+      "password": "sg3nDMgE8"
+    },
+    {
+      "id": 19,
+      "email": "asebrensi@pbs.org",
+      "username": "slevesleyi",
+      "password": "eZcegbe"
+    },
+    {
+      "id": 20,
+      "email": "dparsallj@reference.com",
+      "username": "mscracej",
+      "password": "geeSfWVFYdgS"
+    }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "Jarib Thiolier",
+      "dob": "03/03/1991",
+      "address": "Hà Nội",
+      "gender": "Nam",
+      "email": "jthiolier0@hatena.ne.jp",
+      "avatar": "https://robohash.org/exreprehenderitdistinctio.png?size=900x900&set=set1",
+      "phone": "+7 (350) 509-1417"
+    },
+    {
+      "id": 2,
+      "name": "Vi Edgerton",
+      "dob": "30/01/2010",
+      "address": "Hà Nội",
+      "gender": "Nữ",
+      "email": "vedgerton1@bbc.co.uk",
+      "avatar": "https://robohash.org/aspernatursuntquidem.png?size=900x900&set=set1",
+      "phone": "+62 (342) 683-5040"
+    },
+    {
+      "id": 3,
+      "name": "Rollo Salliere",
+      "dob": "09/09/1971",
+      "address": "Hà Nội",
+      "gender": "Nam",
+      "email": "rsalliere2@unicef.org",
+      "avatar": "https://robohash.org/exreprehenderitdistinctio.png?size=900x900&set=set1",
+      "phone": "+54 (360) 839-4091"
+    },
+    {
+      "id": 4,
+      "name": "Kirk Halpine",
+      "dob": "29/07/1974",
+      "address": "Hà Nội",
+      "gender": "Nam",
+      "email": "khalpine3@google.pl",
+      "avatar": "https://robohash.org/fugiatlaudantiumenim.png?size=900x900&set=set1",
+      "phone": "+66 (877) 621-5418"
+    },
+    {
+      "id": 5,
+      "name": "Nels Eykelhof",
+      "dob": "06/05/1983",
+      "address": "Hà Nội",
+      "gender": "Nữ",
+      "email": "neykelhof4@meetup.com",
+      "avatar": "https://robohash.org/fugiatlaudantiumenim.png?size=900x900&set=set1",
+      "phone": "+86 (832) 390-2137"
+    },
+    {
+      "id": 6,
+      "name": "Delly Snowdon",
+      "dob": "19/11/2000",
+      "address": "Hà Nội",
+      "gender": "Nữ",
+      "email": "dsnowdon5@biglobe.ne.jp",
+      "avatar": "https://robohash.org/fugiatlaudantiumenim.png?size=900x900&set=set1",
+      "phone": "+81 (307) 454-0948"
+    },
+    {
+      "id": 7,
+      "name": "Dulci McCritichie",
+      "dob": "17/03/1990",
+      "address": "Hà Nội",
+      "gender": "Nữ",
+      "email": "dmccritichie6@goo.ne.jp",
+      "avatar": "https://robohash.org/eacumea.png?size=900x900&set=set1",
+      "phone": "+7 (164) 800-0915"
+    },
+    {
+      "id": 8,
+      "name": "Hilly Coppin",
+      "dob": "07/04/1965",
+      "address": "Hà Nội",
+      "gender": "Nữ",
+      "email": "hcoppin7@reference.com",
+      "avatar": "https://robohash.org/eteosdolor.png?size=900x900&set=set1",
+      "phone": "+20 (872) 179-4346"
+    },
+    {
+      "id": 9,
+      "name": "Izak Upson",
+      "dob": "24/03/1962",
+      "address": "Hà Nội",
+      "gender": "Nam",
+      "email": "iupson8@live.com",
+      "avatar": "https://robohash.org/aspernatursuntquidem.png?size=900x900&set=set1",
+      "phone": "+972 (700) 648-0206"
+    },
+    {
+      "id": 10,
+      "name": "Kayne Borrill",
+      "dob": "14/06/1996",
+      "address": "Hà Nội",
+      "gender": "Nữ",
+      "email": "kborrill9@de.vu",
+      "avatar": "https://robohash.org/quiaaccusantiumquia.png?size=900x900&set=set1",
+      "phone": "+54 (459) 688-7480"
+    },
+    {
+      "id": 11,
+      "name": "Lynn Senchenko",
+      "dob": "06/09/1972",
+      "address": "Hà Nội",
+      "gender": "Nữ",
+      "email": "lsenchenkoa@narod.ru",
+      "avatar": "https://robohash.org/estvoluptaseos.png?size=900x900&set=set1",
+      "phone": "+7 (981) 412-0259"
+    },
+    {
+      "id": 12,
+      "name": "Olva Virgin",
+      "dob": "06/03/1977",
+      "address": "Hà Nội",
+      "gender": "Nam",
+      "email": "ovirginb@woothemes.com",
+      "avatar": "https://robohash.org/magnamsaepeautem.png?size=900x900&set=set1",
+      "phone": "+86 (315) 811-6582"
+    },
+    {
+      "id": 13,
+      "name": "Iorgos Killoran",
+      "dob": "02/04/1983",
+      "address": "Hà Nội",
+      "gender": "Nam",
+      "email": "ikilloranc@amazon.co.uk",
+      "avatar": "https://robohash.org/eumsedsit.png?size=900x900&set=set1",
+      "phone": "+86 (172) 998-9779"
+    },
+    {
+      "id": 14,
+      "name": "Hansiain Drohane",
+      "dob": "17/03/1981",
+      "gender": "Nữ",
+      "address": "Hà Nội",
+      "email": "hdrohaned@amazon.co.jp",
+      "avatar": "https://robohash.org/evenietdelectusconsequatur.png?size=900x900&set=set1",
+      "phone": "+7 (373) 395-2546"
+    },
+    {
+      "id": 15,
+      "name": "Nathanial Haggart",
+      "dob": "17/08/2006",
+      "gender": "Nữ",
+      "address": "Hà Nội",
+      "email": "nhaggarte@parallels.com",
+      "avatar": "https://robohash.org/voluptatemvoluptatemqui.png?size=900x900&set=set1",
+      "phone": "+380 (153) 696-7896"
+    }
+  ]
+}
